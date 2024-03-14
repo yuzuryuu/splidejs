@@ -1,6 +1,6 @@
 const splide = new Splide('.splide', {
     type: 'slide', //slide, loop, fade
-    // padding: { y: 10 }, //css values
+    padding: { y: 10 }, //css values
     gap: '20px', //1 rem default
     // rewind: true,
     speed: 500, //transition in milliseconds
