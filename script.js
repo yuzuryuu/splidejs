@@ -1,3 +1,4 @@
+import Splide from '@splidejs/splide';
 const splide = new Splide('.splide', {
     type: 'loop', //slide, loop, fade
     padding: 20 , 
