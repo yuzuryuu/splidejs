@@ -7,7 +7,7 @@ const splide = new Splide('.splide', {
     // fixedWidth: '100vw',
     // width: '200vw',
     perPage: 3,
-    // start: 1,
+    start: 1,
     perMove: 1,
     autoplay: true,
     interval: 3000,
