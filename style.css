@@ -5,5 +5,9 @@
 }
 
 body{
-  background-color: #3e3042;
+  background-color: #061D28;
+}
+
+.text-secondary {
+  color: white;
 }
